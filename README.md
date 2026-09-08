@@ -1,4 +1,28 @@
-## Hi there 👋
+[me]
+name   = ########
+handle = Demonwing
+role   = Student
+degree = None
+age    = 17
+
+[stack]
+os       = Arch
+editor   = Nano, Visual Studio Code
+langs    = CSS(studying), python(stydying)
+frontend = None
+backend  = None
+infra    = None
+cloud    = None
+ci-cd    = None
+db       = None
+
+[field]
+main   = Software Development, Game Development
+goal   = Success
+
+[locale]
+langs   = de, en, mn, cn
+charset = UTF-8
 
 <!--
 **demonwing-deadangels/demonwing-deadangels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +36,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ..
